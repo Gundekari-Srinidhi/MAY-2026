@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1934-confirmation-rate](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1934-confirmation-rate) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
