@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
