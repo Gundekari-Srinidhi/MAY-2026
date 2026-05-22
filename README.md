@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
