@@ -46,15 +46,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0031-next-permutation) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
