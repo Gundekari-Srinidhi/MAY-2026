@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
