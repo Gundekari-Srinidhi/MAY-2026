@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
+| [0443-string-compression](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0031-next-permutation) |
+| [0443-string-compression](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
