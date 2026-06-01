@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0367-valid-perfect-square) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
