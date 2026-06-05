@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0022-generate-parentheses) |
 | [0443-string-compression](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
