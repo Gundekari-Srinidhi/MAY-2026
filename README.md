@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Gundekari-Srinidhi/MAY-2026/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
